@@ -5,4 +5,4 @@ PRODUCT_PACKAGES += \
        com.tmobile.themes \
 
 PRODUCT_COPY_FILES += \
-       vendor/common/etc/permissions/com.tmobile.software.themes.xml:system/etc/permissions/com.tmobile.software.themes.xml
+       vendor/jandycane/etc/permissions/com.tmobile.software.themes.xml:system/etc/permissions/com.tmobile.software.themes.xml
